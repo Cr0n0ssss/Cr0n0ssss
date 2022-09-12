@@ -1,7 +1,7 @@
 ### Hi
 
 
-wie man sehen kann ist nichts besonderes gemacht worden. Dieser Test ist für die HTL gedacht.
+wie man erkennen kann ist nichts besonderes gemacht worden. Dieser Test ist für die HTL UE gedacht.
 
 Wir haben folgende commands gelernt:
 git init, add, commit
